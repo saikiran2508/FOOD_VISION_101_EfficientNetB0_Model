@@ -1,5 +1,6 @@
 # FOOD_VISION_101_EfficientNetB0_Model
-### The Accuracy Of the model is:
+### The Accuracy Of the model is :
+### TensorBoard Results :
 
 #### Build a Machine Learning model that can predict a food item from 101 different food classes.
 #### In this model, I used the EfficientNetB0 model from TensorHub. It is a transfer learning model proven to work best for my kind of dataset.
